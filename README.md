@@ -1,4 +1,4 @@
-![EconectaApp Logo](/Econecta-master/src/assets/images/icons/logo.jpg = 100x100)
+![EconectaApp Logo](/Econecta-master/src/assets/images/icons/logo.jpg :width: 100px)
 # Econecta
 From hakaton 
 
